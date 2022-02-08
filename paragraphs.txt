@@ -1,0 +1,10 @@
+Thevenin's Theorem can be used to simplify circuits for ease of analysis.
+Complex (linear) circuits can be simplified as a voltage source, resistor, and a load resistor in series.
+Thevenin Equivalent Circuits are only accurate in circuits containing no gas discharge tubes or semiconductors,
+due to a lot of them being nonlinear, having an opposition to current that changes with voltage and/or current.
+
+
+Kirchhoff's first law states that all currents flowing into a node/junction are equal to all currents flowing out of said node/junction.
+Currents flowing into the node may be assigned a positive sign, and those flowing out a negitive one.
+Using those signs, the sum should of all currents should be 0.
+This law relies the fact that the net charge of wires and components is constant.
